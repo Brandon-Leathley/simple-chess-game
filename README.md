@@ -1,9 +1,11 @@
 # simple-chess-game
 Chess game built in python using tkinter graphics library. 
+
 Instructions:
 Decide player colours. When it is your turn, left click to select a piece of correct colour, right click a highlighted location to move there.
 
 This simple chess game was programmed in collaboration with Amadej Kocbek.
+https://github.com/Amadeus23
 
 Current features:
 En passant.
